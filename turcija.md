@@ -425,6 +425,39 @@ Kristieši                 0,2    Rozīga
 * Vairāki nodalīti sabiedrības slāņi
 * Tradicionāli precības līgavu un līgavaini izvēlas vecāki
 * Precības ilgst vairākas dienas un to laikā notiek dažādas ceremonijas, kas bieži iekļauj sevī visus ielas iedzīvotājus vai pat visu ciematu.
+* Sievietes pārvalda ģimenes iekšlietas, viņām ir vienādas tiesības uz privātīpašumu un mantojumu, kā arī izglītību un piedalīšanos publiskajā dzīvē
+* Pret vecākiem cilvēkiem, ja viņi nav tuvi draugi vai ģimenes locekļi, jāizturas ar cieņu
+* Neēd vienatnē vai ceļā
+* Turcijā cilvēki ir vienmēr gatavi uzņemt viesus, mājas pat ir sadalītas viesu daļā un privātajā daļā.
+* Sarežģīta žestu valoda
+
+::: notes
+* Vairāki nodalīti sabiedrības slāņi
+* Tradicionāli precības līgavu un līgavaini izvēlas vecāki
+* Precības ilgst vairākas dienas un to laikā notiek dažādas ceremonijas, kas bieži iekļauj sevī visus ielas iedzīvotājus vai pat visu ciematu.
+* Sievietes pārvalda ģimenes iekšlietas, viņām ir vienādas tiesības uz privātīpašumu un mantojumu, kā arī izglītību un piedalīšanos publiskajā dzīvē
+* Pret vecākiem cilvēkiem, ja viņi nav tuvi draugi vai ģimenes locekļi, jāizturas ar cieņu
+* Neēd vienatnē vai ceļā
+* Turcijā cilvēki ir vienmēr gatavi uzņemt viesus, mājas pat ir sadalītas viesu daļā un privātajā daļā.
+* Sarežģīta žestu valoda
+:::
+
+# Tradicionālie ēdieni
+
+---
+
+![Kebabs](https://upload.wikimedia.org/wikipedia/commons/e/ed/EbuElem-Adana.jpg){height=550px}
+
+::: notes
+### Kebabs
+
+* Kebabi ir dažādi cepti gaļas ēdieni
+
+:::
+
+---
+
+![Jogurts](https://upload.wikimedia.org/wikipedia/commons/e/ea/Turkish_strained_yogurt.jpg){height=550px}
 
 # Atsauces
 
