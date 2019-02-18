@@ -1,10 +1,16 @@
+---
+pagetitle: Turcija
+parallaxBackgroundImage: background.jpg
+parallaxBackgroundSize: 1880px 1252px
+---
+
+# Turcija
+
 <style>
   .vesture {
     font-size: 20px;
   }
 </style>
-
-# Turcija
 
 ### Autori: Kārlis Gustavs Ārītis, Mārtiņš Bode, Patriks Jānis Pudāns, Arts Stuberovskis
 
@@ -146,6 +152,12 @@
 * Lielākais ezers ir Vana ezers, kurš aizņem 3755 km^2
   * Tas ir arī dziļākais ezers - 451 metru dziļš.
 * Garākā upe ir Kizilirmaka un plūst 1355 kilometrus.
+
+::: notes
+* Lielākais ezers ir Vana ezers, kurš aizņem 3755 km^2
+  * Tas ir arī dziļākais ezers - 451 metru dziļš.
+* Garākā upe ir Kizilirmaka un plūst 1355 kilometrus.
+:::
 
 ---
 
@@ -444,6 +456,10 @@ Kristieši                 0,2    Rozīga
 
 # Tradicionālie ēdieni
 
+::: notes
+[1 slaids - 1 attēls]
+:::
+
 ---
 
 ![Kebabs](https://upload.wikimedia.org/wikipedia/commons/e/ed/EbuElem-Adana.jpg){height=550px}
@@ -451,13 +467,261 @@ Kristieši                 0,2    Rozīga
 ::: notes
 ### Kebabs
 
-* Kebabi ir dažādi cepti gaļas ēdieni
-
+* Kebabi ir dažādi cepti gaļas ēdieni.
+* Turcijas nacionālie kebabi ir:
+  * Bejti kebabi
+  * Šiš kebabi
+  * Dza kebabi
+  * Donera kebabi
+  * Iskendera kebabi
+  * Adanas kebabi
+  * Tvaika kebabi
+  * Testi kebabi
 :::
 
 ---
 
 ![Jogurts](https://upload.wikimedia.org/wikipedia/commons/e/ea/Turkish_strained_yogurt.jpg){height=550px}
+
+::: notes
+### Jogurts
+
+* Vārds "jogurts" ir cēlies to turku valodas vārda "yoğurmak" (izruna "jo-urmak"), kas nozīmē "mīcīt" vai "sabiezēt"
+* Izmantošana Turcijā aprakstīta tādās 11.gs. grāmatās kā:
+  * Mahmuda Kašgari *Dīwān Lughāt al-Turk*
+  * Jusufa Hasa Hajiba *Kūtādgū Bilik*
+:::
+
+---
+
+![Baklava](https://upload.wikimedia.org/wikipedia/commons/8/8f/Baklava_-_Turkish_special%2C_80-ply.JPEG){height=550px}
+
+::: notes
+### Baklava
+
+* Baklava ir bagātīgs, salds konditorejas izstrādājums, kas sastāv no vairākiem filo līmeņiem, kas piepildīti ar sasmalcinātiem riekstiem un turas kopā ar sīrupu vai medu.
+* Vecākā recepte ir no 2.gs. p.m.ē.
+* Īsti nav pārliecības, vai šis oriģināli bija grieķu vai turku ēdiens
+:::
+
+---
+
+![Turku kafija](https://upload.wikimedia.org/wikipedia/commons/b/b5/T%C3%BCrk_Kahvesi_-_Bakir_Cezve.jpg){height=550px}
+
+::: notes
+### Turku kafija
+
+* Turku kafija ir veids, kā ļoti labi sagatavot kafiju. To gatavo šādi:
+  * Var izmantot jebkuru kafijas pupiņu
+  * Pupiņas sasmalcina ļoti smalkā pulverī
+  * Pulverim pielej ūdeni un parasti cukuru īpašā traukā, sauktā par cazvi
+  * Tiklīdz šis maisījums sāk putot, un pirms tas pārvārās, to ņem nost
+  * Šo karsēšanu var atkārtot divas reizes, lai palielinātu putas.
+:::
+
+# Zemkopība
+
+::: notes
+[Viens slaids tālāk atbildīs vienai ilustrācijai.]
+:::
+
+---
+
+![Fikuskoks](https://upload.wikimedia.org/wikipedia/commons/3/3d/Sycomoros_old.jpg){height=550px}
+
+::: notes
+* Turcija ir lielākais lazdu riekstu, ķiršu, fikuskoku, aprikožu un granātābālu ražotājs.
+:::
+
+---
+
+![Cidonija](https://upload.wikimedia.org/wikipedia/commons/0/01/Quince_%2810889s%29.jpg){height=550px}
+
+::: notes
+* Tā ir 2. lielākais cidoniju un meloņu ražotājs
+:::
+
+---
+
+![Lēcas](https://upload.wikimedia.org/wikipedia/commons/f/f5/3_types_of_lentil.png){height=550px}
+
+::: notes
+* 3. lielākais gurķu, zaļo piparu, lēcu un pistāciju ražotājs
+:::
+
+---
+
+![Olīvas](https://upload.wikimedia.org/wikipedia/commons/8/84/Olivesfromjordan.jpg){height=550px}
+
+::: notes
+* 4. lielākais ābolu, tomātu, baklažānu un olīvu ražotājs
+* Turcijā ir 180 miljoni olīvkoku, kas noklāj 700 000 ha, saražo 500 000 tonnu galda olīvu, 300 000 olīeļļas gadā.
+  * No tiem eksportē 70 000 tonnu galda olīvu un 60 000 tonnu olīveļļas gadā.
+:::
+
+---
+
+![Aunazirņi](https://upload.wikimedia.org/wikipedia/commons/e/ea/Sa-whitegreen-chickpea.jpg){height=550px}
+
+::: notes
+* 5. lielākais tējas, aunazirņu un cukurbiešu ražotājs
+:::
+
+---
+
+![Miežu sēklas](https://upload.wikimedia.org/wikipedia/commons/6/65/Barley_Seeds.jpg){height=550px}
+
+::: notes
+* 6. lielākais mandeļu un sīpolu ražotājs
+* 7. lielākais citronu, greipfrūtu un kokvilnas ražotājs
+* 8. lielākais miežu ražotājs
+:::
+
+# Saimniecība
+
+* Turcijas *Vestel* un *Beko* ir lielākie TV ražotāji Eiropā
+* Turcijas apģērba kompānijas 2006. gadā eksportēja 13,98 miljardus ASV dolārus apģērbos.
+* Turcija ir 5. lielākais transportlīdzekļu ražotājs Eiropā un 12. lielākais pasaulē.
+
+::: notes
+* Turcijas *Vestel* un *Beko* ir lielākie TV ražotāji Eiropā
+* Turcijas apģērba kompānijas 2006. gadā eksportēja 13,98 miljardus ASV dolārus apģērbos.
+* Turcija ir 5. lielākais transportlīdzekļu ražotājs Eiropā un 12. lielākais pasaulē.
+:::
+
+# Armija
+
+* Pirmā Turku armija dibināta 209.g. p.m.ē.
+* Armijai ir priekšroka starp bruņotajiem spēkiem
+* Turcijas armija bieži ir iejaukusies Turcijas politikā
+* Tā ir piedalījusies 16 karos:
+
+::: notes
+* Pirmā Turku armija dibināta 209.g. p.m.ē.
+  * Pirmā Turcijas Republikas armija dibināta 1920. gada 8. novembrī
+  * Pašreizējā armija dibināja 1949. gada 1. jūlijā
+* Armijai ir priekšroka starp bruņotajiem spēkiem
+* Turcijas armija bieži ir iejaukusies Turcijas politikā
+* Tā ir piedalījusies 16 karos:
+  * Neatkarības karā
+  * Seiku seidu revolūcijā
+  * Ararata revolūcijā
+  * Dersimas revolūcijā
+  * Koreju karā
+  * Kipras invīzija
+  * Turcijas-PKK konfliktā
+  * NATO Jugoslāvijas bombardēšanā
+  * Afganistānas karā
+  * Operācijā Saule
+  * Irākas starprobežu reidos
+  * Sīrijas robežu sadursmē
+  * Operācija Šah Eifrata
+:::
+
+# Derīgie izrakteņi
+
+* Turcija ir 10. lielākā derīgo izrakteņu dažādības ziņā
+* Turcijā vissvairāk ir bora sāļi, kuri ir atbildīgi par 72% pasaules bora sāļu.
+
+::: notes
+* Turcija ir 10. lielākā derīgo izrakteņu dažādības ziņā
+* Turcijā vissvairāk ir bora sāļi, kuri ir atbildīgi par 72% pasaules bora sāļu.
+  * Ir arī citi, kā ogles, dzelzs rūda, varš, hroms, urāns, antimons, merkūrijs, zelts, barīts, borāti, stroncijs, emerija, laukšpats, kaļķakmens, sērs, māls
+:::
+
+# ΤOP 7 apskates objekti
+
+::: notes
+[1 slaids - 1 attēls]
+:::
+
+---
+
+![Svētā Sofija](https://upload.wikimedia.org/wikipedia/commons/2/22/Hagia_Sophia_Mars_2013.jpg){height=550px}
+
+::: notes
+### Svētā Sofija
+
+* Atrodas Stambulā
+* Bijusi grieķu pareizticīgo patriarhāla katedrāle, vēlāk Osmaņu impērijas mošeja un tagad muzejs.
+* Uzbūvēta m.ē. 537.g.
+
+:::
+
+---
+
+![Zilā mošeja](https://upload.wikimedia.org/wikipedia/commons/5/55/Blaue_moschee_6minarette.jpg){height=550px}
+
+::: notes
+### Zilā mošeja
+
+* Sunnītu mošeja Stambulā
+* Uzbūvēta 1609.-1617.g.
+* Atrodas blakus Svētajai Sofijai
+:::
+
+---
+
+![Pamukkale](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pamukkale.jpg/1280px-Pamukkale.jpg){height=550px}
+
+::: notes
+### Pamukkale
+
+* Uzbūvēta netālu no Hēropoles drupām
+* 1988. gadā iekļauta UNESCO pasaules mantojuma sarakstā
+* Populāra tūŗisma apskates vieta
+:::
+
+---
+
+![Topkapi pils](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Topkap%C4%B1_-_01.jpg/1280px-Topkap%C4%B1_-_01.jpg){height=550px}
+
+::: notes
+### Topkapi pils
+
+* Atrodas Stambulā
+* 15. gs. kalpoja kā galvenā osmaņu sultānu rezidence
+* Uzbūvēta 1459. gadā
+* 1924.g. pārveidota par muzeju
+:::
+
+---
+
+![Lielais bazārs](https://upload.wikimedia.org/wikipedia/commons/f/fa/Grand-Bazaar_Shop.jpg){height=550px}
+
+::: notes
+### Lielais bazārs
+
+* Arī atrodas Stambulā
+* Viens no lielākajiem bazāriem pasaulē ar 4000 veikaliem kuriem ir 250 000 - 400 000 katru dienu
+* 2014. gadā minēts kā visvairāk apmeklētais apskates objekts
+* Uzskatīts par vienu no pirmajiem tirdzniecības centriem pasaulē
+:::
+
+---
+
+![Bosfors](https://upload.wikimedia.org/wikipedia/commons/e/ea/Istanbul_and_Bosporus_big.jpg){height=550px}
+
+::: notes
+### Bosfors
+
+* Jūras šaurums
+* Veido daļu no Eiropas-Āzijas robežas
+* Šaurākais šaurums, ko izmanto starptautiskai navigācijai
+* Blakus atrodas Stambula
+
+---
+
+![Bazilikas cisterna](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Cisterna_Basilica_Junto_a_Santa_Sofia_Estambul.JPG/1280px-Cisterna_Basilica_Junto_a_Santa_Sofia_Estambul.JPG){height=550px}
+
+::: notes
+### Bazilikas cisterna
+
+* Lielākā no pāris simtiem senu cisternu kas guļ zem Stambulas
+* Uzbūvēta 6. gs.
+* 138x65 m liela.
+* Var glabāt 80 000 cm^3 ūdens.
+:::
 
 # Atsauces
 
@@ -479,3 +743,7 @@ Kristieši                 0,2    Rozīga
 6. https://www.ranker.com/list/famous-people-from-turkey/reference
 7. https://www.traveltofethiye.co.uk/about/culture-history/turkish-traditions/ 
 :::
+
+# Paldies par uzmanību!
+
+![](ppu.jpg){width=575px}\
