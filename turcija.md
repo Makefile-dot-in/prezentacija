@@ -396,7 +396,7 @@ Vislielākā augu ģints ar gandrīz 400 sugām Turcijā.
 
 ---
 
-![Redžeps Tajjips Erdogans](https://upload.wikimedia.org/wikipedia/commons/1/10/Recep_Tayyip_Erdogan_2017.jpg)
+![Redžeps Tajjips Erdogans](https://upload.wikimedia.org/wikipedia/commons/1/10/Recep_Tayyip_Erdogan_2017.jpg){height=550px}
 
 ::: notes
 ### Redžeps Tajjips Erdogans
