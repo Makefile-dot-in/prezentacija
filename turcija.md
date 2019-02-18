@@ -547,7 +547,7 @@ Kristieši                 0,2    Rozīga
 
 ---
 
-![Lēcas](https://upload.wikimedia.org/wikipedia/commons/f/f5/3_types_of_lentil.png){height=550px}
+![Lēcas](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/3_types_of_lentil.jpg/1280px-3_types_of_lentil.jpg){height=550px}
 
 ::: notes
 * 3. lielākais gurķu, zaļo piparu, lēcu un pistāciju ražotājs
@@ -565,7 +565,7 @@ Kristieši                 0,2    Rozīga
 
 ---
 
-![Aunazirņi](https://upload.wikimedia.org/wikipedia/commons/e/ea/Sa-whitegreen-chickpea.jpg){height=550px}
+![Aunazirņi](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Sa-whitegreen-chickpea.jpg/1280px-Sa-whitegreen-chickpea.jpg){height=550px}
 
 ::: notes
 * 5. lielākais tējas, aunazirņu un cukurbiešu ražotājs
@@ -573,7 +573,7 @@ Kristieši                 0,2    Rozīga
 
 ---
 
-![Miežu sēklas](https://upload.wikimedia.org/wikipedia/commons/6/65/Barley_Seeds.jpg){height=550px}
+![Miežu sēklas](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Barley_Seeds.jpg/1280px-Barley_Seeds.jpg){height=550px}
 
 ::: notes
 * 6. lielākais mandeļu un sīpolu ražotājs
