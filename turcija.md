@@ -3,7 +3,7 @@ pagetitle: Turcija
 parallaxBackgroundImage: background.jpg
 parallaxBackgroundSize: 1920px 1080px
 parallaxBackgroundHorizontal: 0
-paxallaxBackgroundVertical: 0
+parallaxBackgroundVertical: 0
 ---
 
 # Turcija
