@@ -1,7 +1,7 @@
 ---
 pagetitle: Turcija
 parallaxBackgroundImage: background.jpg
-parallaxBackgroundSize: 1880px 1252px
+parallaxBackgroundSize: 3840px 2160px
 ---
 
 # Turcija
@@ -22,7 +22,7 @@ parallaxBackgroundSize: 1880px 1252px
 * Datuma formāts: dd/mm/yyyy
 * Valūta: Turcijas lira (1 EUR = 6.22583 TRY)
 * Karogs: ![Turcijas karogs](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/125px-Flag_of_Turkey.svg.png){width=120px}
-* Himna: <iframe src="https://commons.wikimedia.org/wiki/File:Istikl%C3%A2l_Marsi_instrumetal.ogg?embedplayer=yes" width="120" height="30" frameborder="0" ></iframe>	
+* Himna: <iframe src="https://commons.wikimedia.org/wiki/File:%C4%B0stiklal_Mar%C5%9F%C4%B1_-_National_Anthem_of_Turkey.webm?embedplayer=yes" width="null" height="20" frameborder="0" ></iframe>
 
 ::: notes
 * Platība: 783 356 km^2 (36. lielākā pasaulē)
@@ -64,7 +64,7 @@ parallaxBackgroundSize: 1880px 1252px
 
 ::: {.vesture}
 
-* 47. gadā Sv. Pauls sāak izplatīt kristietību Turcijā.
+* 47. gadā Sv. Pauls sāk izplatīt kristietību Turcijā.
 * 330. g. Konstantīns Lielais izveidoja jauno Romas impērijas galvaspilsētu Bizantijā un nosauca to par Konstantinopoli.
 * 1299.g. Osmans I dibina Osmaņu impēriju.
 * 1453.g. osmaņi ieņēma Konstantinopoli, tādējādi izjaucot Bizantijas Impēriju
@@ -74,7 +74,7 @@ parallaxBackgroundSize: 1880px 1252px
 
 ::: notes
 
-* 47. gadā Sv. Pauls sāak izplatīt kristietību Turcijā.
+* 47. gadā Sv. Pauls sāk izplatīt kristietību Turcijā.
 * 330. g. Konstantīns Lielais izveidoj jauno Romas impērijas galvaspilsētu Bizantijā un nosauca to par Konstantinopoli.
 * 1299.g. Osmans I dibina Osmaņu impēriju.
 * 1453.g. osmaņi ieņēma Konstantinopoli, tādējādi izjaucot Bizantijas Impēriju
