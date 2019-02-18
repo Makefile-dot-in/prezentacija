@@ -713,6 +713,7 @@ Kristieši                 0,2    Rozīga
 * Veido daļu no Eiropas-Āzijas robežas
 * Šaurākais šaurums, ko izmanto starptautiskai navigācijai
 * Blakus atrodas Stambula
+:::
 
 ---
 
