@@ -436,6 +436,7 @@ Kristieši                 0,2    Rozīga
 
 # Tradīcijas
 
+::: {style="font-size:30px;"}
 * Vairāki nodalīti sabiedrības slāņi
 * Tradicionāli precības līgavu un līgavaini izvēlas vecāki
 * Precības ilgst vairākas dienas un to laikā notiek dažādas ceremonijas, kas bieži iekļauj sevī visus ielas iedzīvotājus vai pat visu ciematu.
@@ -444,6 +445,7 @@ Kristieši                 0,2    Rozīga
 * Neēd vienatnē vai ceļā
 * Turcijā cilvēki ir vienmēr gatavi uzņemt viesus, mājas pat ir sadalītas viesu daļā un privātajā daļā.
 * Sarežģīta žestu valoda
+:::
 
 ::: notes
 * Vairāki nodalīti sabiedrības slāņi
@@ -537,7 +539,7 @@ Kristieši                 0,2    Rozīga
 
 ---
 
-![Cidonija](https://upload.wikimedia.org/wikipedia/commons/0/01/Quince_%2810889s%29.jpg){height=550px}
+![Cidonija](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Quince_%2810889s%29.jpg/1280px-Quince_%2810889s%29.jpg){height=550px}
 
 ::: notes
 * Tā ir 2. lielākais cidoniju un meloņu ražotājs
