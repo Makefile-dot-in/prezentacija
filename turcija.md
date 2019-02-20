@@ -456,6 +456,7 @@ Kristieši                 0,2    Rozīga
 * Neēd vienatnē vai ceļā
 * Turcijā cilvēki ir vienmēr gatavi uzņemt viesus, mājas pat ir sadalītas viesu daļā un privātajā daļā.
 * Sarežģīta žestu valoda
+* Sieviete var pieprasīt šķiršanos, ja vīrs nedod pietiekami daudz kafijas
 :::
 
 # Tradicionālie ēdieni
