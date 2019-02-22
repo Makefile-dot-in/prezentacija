@@ -237,12 +237,12 @@ Strīpainā hiēna ir hiēnu suga, kurai raksturīgs nedaudz mazāks augums kā 
 
 ---
 
-![Indijas porkupīns](https://upload.wikimedia.org/wikipedia/commons/3/3f/Hystrix_indica_%28Indian_Crested_Porcupine%29_at_IG_Zoological_park%2C_Visakhapatnam_03.JPG){height=550px}
+![Indijas dzeloņcūka](https://upload.wikimedia.org/wikipedia/commons/3/3f/Hystrix_indica_%28Indian_Crested_Porcupine%29_at_IG_Zoological_park%2C_Visakhapatnam_03.JPG){height=550px}
 
 ::: notes
 [attēls]
 
-Indijas porkupīns ir liels grauzējs (70-90 cm garš). Tas ir klāts ar vairākiem līmeņiem pielāgota apmatojuma. Tam ir plecīgs augums ar zemu virsmas laukuma pret tilpuma attiecību, kas palīdz saglabāt siltumu. Tam ir plašas kājas ar gariem nagiem, kā arī laba oža.
+Indijas dzeloņcūka ir liels grauzējs (70-90 cm garš). Tas ir klāts ar vairākiem līmeņiem pielāgota apmatojuma. Tam ir plecīgs augums ar zemu virsmas laukuma pret tilpuma attiecību, kas palīdz saglabāt siltumu. Tam ir plašas kājas ar gariem nagiem, kā arī laba oža.
 :::
 
 ---
@@ -596,12 +596,19 @@ Kristieši                 0,2    Rozīga
 
 # Armija
 
+* Ir 5 armijas nozares
 * Pirmā Turku armija dibināta 209.g. p.m.ē.
 * Armijai ir priekšroka starp bruņotajiem spēkiem
 * Turcijas armija bieži ir iejaukusies Turcijas politikā
 * Tā ir piedalījusies 16 karos:
 
 ::: notes
+* Ir 5 armijas nozares
+  * Zemes spēki
+  * Jūras spēki
+  * Gaisa spēki
+  * Žandarmija
+  * Krasta apsardze
 * Pirmā Turku armija dibināta 209.g. p.m.ē.
   * Pirmā Turcijas Republikas armija dibināta 1920. gada 8. novembrī
   * Pašreizējā armija dibināja 1949. gada 1. jūlijā
